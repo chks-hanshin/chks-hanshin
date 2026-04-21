@@ -1,8 +1,6 @@
-# i'm student in Hanshin University 🏫
-안녕하세요
-## My Major is AI 🤖 & SW ☕
-#### 🟠제 주 전공은 AI.SW학 입니다.
-###
+# Hanshin University 🏫
+AI.SW 전공
+학번 202678186
 
 <!--
 **chks-hanshin/chks-hanshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
