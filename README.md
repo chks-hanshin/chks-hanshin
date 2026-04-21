@@ -1,6 +1,6 @@
 # Hanshin University 🏫
-AI.SW 전공
-학번 202678186
+####AI.SW 전공
+####학번 202678186
 
 <!--
 **chks-hanshin/chks-hanshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
