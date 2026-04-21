@@ -1,5 +1,12 @@
 # Hanshin University 🏫
 - AI.SW학 🤖 전공
+- 1학년
+
+# About me
+- 대한민국에 거주중
+- 남자 ♂️
+
+
 
 
 <!--
