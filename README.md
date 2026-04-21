@@ -1,5 +1,5 @@
 # i'm student in Hanshin University 🏫
-
+안녕하세요
 ## My Major is AI 🤖 & SW ☕
 ### 🟠제 주 전공은 AI.SW학 입니다.
 ###
