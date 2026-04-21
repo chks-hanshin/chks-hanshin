@@ -1,10 +1,11 @@
-# Hanshin University 🏫
-- AI.SW학 🤖 전공
-- 1학년
 
-# About me
-- 대한민국에 거주중
-- 남자 ♂️
+# 🚀 안녕하세요, 최규성입니다!
+
+### 🎓 About Me
+- 🏫 **한신대학교 (Hanshin University)** 재학 중
+- 📚 **AI·SW학** 전공 (Artificial Intelligence & Software)
+- 💡 인공지능 모델링과 효율적인 소프트웨어 개발에 관심이 많습니다.
+- ✉️ **Contact:** [chks0602@hs.ac.kr]
 
 
 
