@@ -1,3 +1,5 @@
+<p color='orange'>My Banner</p>
+
 # i'm student in Hanshin University 🏫
 
 ## My Major is AI 🤖 & SW ☕
