@@ -1,8 +1,8 @@
-<font color='orange'>My Banner</font>
-
 # i'm student in Hanshin University 🏫
 
 ## My Major is AI 🤖 & SW ☕
+### 🟠제 주 전공은 AI.SW학 입니다.
+###
 
 <!--
 **chks-hanshin/chks-hanshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
