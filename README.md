@@ -1,4 +1,4 @@
-# i'm student in hanshin University
+# i'm student in **Hanshin University**
 
 ## Hi there 👋
 
