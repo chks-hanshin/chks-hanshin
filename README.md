@@ -1,4 +1,4 @@
-<p color='orange'>My Banner</p>
+<font color='orange'>My Banner</font>
 
 # i'm student in Hanshin University 🏫
 
