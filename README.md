@@ -1,11 +1,38 @@
-# 한신대학교 재학생 최규성
-## 한신대학교 AI.SW학 재학생 최규성
-### 한신대학교 AI.SW학 재학생 최규성
-#### 한신대학교 AI.SW학 재학생 최규성
-##### 한신대학교 AI.SW학 재학생 최규성
-###### 한신대학교 AI.SW학 재학생 최규성
+# 👋 안녕하세요, [이름]입니다!
+
+> 🚀 [AI.SW학] [202678186]학번 | 차근차근 배워나가는 성장형 개발자입니다.
+
 ---
-한신대학교 AI.SW학 재학생 최규성
+
+### 🎓 About Me
+- 🏫 **소속:** [한신대학교] [AI.SW학] 1학년
+- 🌱 **요즘 배우는 것:** [HTML,Python]
+- 💡 **관심 분야:** [게임 개발,정보 보안,AI]
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** [C-language(기초),Python,HTML]
+- **Tools:** GitHub, VS Code
+
+---
+
+### 📚 Projects & Studies
+- 📌 **[과제/프로젝트 이름](링크)** - [과목명] 기말 과제 (예: C언어로 만든 미니 게임)
+- 📝 **[스터디/기록 이름](링크)** - 파이썬 기초 공부 기록 모음
+
+---
+
+### 🎯 올해의 목표
+- [ ] GitHub 일주일 3번 이상 잔디 심기
+- [ ] 전공 기초 과목 마스터하기
+- [ ] 나만의 토이 프로젝트 1개 완성하기
+
+---
+
+### 📬 Contact
+- 📧 **Email:** `chks0602@hs.ac.kr`
+- 📝 **Blog:** ...
 
 <!--
 **chks-hanshin/chks-hanshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
