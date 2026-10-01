@@ -1,20 +1,4 @@
-
-# 🚀 안녕하세요, 최규성입니다!
-
-### 🎓 About Me
-- 🏫 **한신대학교 (Hanshin University)** 재학 중
-- 📚 **AI·SW학** 전공 (Artificial Intelligence & Software)
-- 💡 인공지능 모델링과 효율적인 소프트웨어 개발에 관심이 많습니다.
-- ✉️ **Contact:** [chks0602@hs.ac.kr]
-
-# :electron: 최근 활동
-
-### 📖공부
-- 🧠창의적 공학 설계 공부중
-
-### 📔언어
-- C-language
-- python
+한신대학교 AI.SW학 재학생 최규성
 
 
 <!--
