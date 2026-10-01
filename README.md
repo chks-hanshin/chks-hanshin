@@ -1,5 +1,5 @@
 # 👋 안녕하세요, **최규성**입니다!
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2oC15GGm0N51V7eMLKxMX3gxhFz4jjv8zITb3lx4w2A&s=10)
+![그냥 좋아해서 넣었습니다.](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2oC15GGm0N51V7eMLKxMX3gxhFz4jjv8zITb3lx4w2A&s=10)
 > 🚀 [AI.SW학] [202678186]학번 | 차근차근 배워나가는 성장형 개발자입니다.
 
 ---
